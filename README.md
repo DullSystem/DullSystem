@@ -36,6 +36,9 @@
   <img src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="Dbeaver" alt="Dbeaver" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="Dbeaver" alt="Dbeaver" width="40" height="40"/>&nbsp;  
 </div>
 
+---
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DullSystem&theme=tokyonight&locale=ru&card_width=493)](https://git.io/streak-stats)
