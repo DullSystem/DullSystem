@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN0dnI3dWgwY3Y3dGlsZ2cwdWsxYml6enVsanVodDJwNXlnc2d4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF5ODQxdnZvZTloYms4dTQ1ODFvejU5aDhjeGcxZnYzeHM1djliaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" height="150"/>
 <div id="badges">
   <a href="https://t.me/dull_system">
     <img src="https://img.shields.io/badge/%20-blue?style=social&logo=telegram&label=telegram&labelColor=blue&color=blue"/>
@@ -19,7 +19,10 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <div align="center">  
 </div>
-
+</div>
+---
+### :woman_technologist: About Me : Меня зовут Сергей Красноперов
 
 
