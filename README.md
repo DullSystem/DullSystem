@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF5ODQxdnZvZTloYms4dTQ1ODFvejU5aDhjeGcxZnYzeHM1djliaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" height="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF5ODQxdnZvZTloYms4dTQ1ODFvejU5aDhjeGcxZnYzeHM1djliaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="295" height="210"/>
 <div id="badges">
   <a href="https://t.me/dull_system">
     <img src="https://img.shields.io/badge/%20-blue?style=social&logo=telegram&label=telegram&labelColor=blue&color=blue"/>
@@ -14,6 +14,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
 </div>
+  
+  ![Static Badge](https://img.shields.io/badge/DullSystemm%40yandex.ru-blue?logo=email&label=email)
+  
   <img src="https://komarev.com/ghpvc/?username=DullSystem&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there
@@ -22,8 +25,14 @@
   <div align="center">  
 </div>
 </div>
-
-### :woman_technologist: About Me : Меня зовут Сергей Красноперов
+ 
+---
+### :woman_technologist: About Me : Меня зовут Сергей Красноперов, и я химик, интересующийся аналитикой данных. Решил пройти курс от Яндекс практикума, в процессе понял, что хочу заниматься данной профессией. С каждым днем все больше учусь этому не простому делу и не жалею.
+### :triangular_ruler: Basic education : Я закончил магистратуру ТвГУ на факультете Химии
+### :briefcase: Additional education : Люблю учиться, поэтому занимаюсь постоянно, прохожу дополнительные курсы и читаю книги
+- Яндекс практикум:  `аналитик данных`, `Основы статистики и А/B тестирования`
+- Основы статистики на `Stepik`
+- Karpov courses: `Симулятор SQL` 
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
