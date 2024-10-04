@@ -38,7 +38,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" title="NamPy" alt="NamPy" width="40" height="40"/>&nbsp;
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_mu_0ah9fKaW9FAr1rmPhPepQ8o-D3nIHWEIxIeC2Knfw=s900-c-k-c0x00ffffff-no-rj" title="NamPy" alt="NamPy" width="40" height="40"/>&nbsp;
   <img src="https://avatars.mds.yandex.net/i?id=483ab61e581c272d31f8de36bf9b801e582b1df5-10933531-images-thumbs&n=13" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" title="Scipy" alt="Scipy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
