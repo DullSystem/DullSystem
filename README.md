@@ -10,9 +10,9 @@
   <a href="https://wa.me/qr/L57VIJ3W6OB5F1">
     <img src="https://img.shields.io/badge/%20-green?style=flat&logo=WhatsApp&label=WhatsApp&labelColor=green&color=green"/>
   </a>
-<!--   <a href="https://wa.me/qr/L57VIJ3W6OB5F1">
+  <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
-  </a> -->
+  </a>
 </div>
   
   ![Static Badge](https://img.shields.io/badge/DullSystemm%40yandex.ru-blue?logo=email&label=email)
