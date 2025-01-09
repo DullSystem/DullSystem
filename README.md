@@ -10,7 +10,7 @@
   <a href="https://wa.me/qr/L57VIJ3W6OB5F1">
     <img src="https://img.shields.io/badge/%20-green?style=flat&logo=WhatsApp&label=WhatsApp&labelColor=green&color=green"/>
   </a>
-  <a href="https://www.linkedin.com/feed/">
+  <a href="www.linkedin.com/in/сергей-краснопёров-1bba49343">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
 </div>
