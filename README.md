@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF5ODQxdnZvZTloYms4dTQ1ODFvejU5aDhjeGcxZnYzeHM1djliaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="295" height="210"/>
+<!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF5ODQxdnZvZTloYms4dTQ1ODFvejU5aDhjeGcxZnYzeHM1djliaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="295" height="210"/> -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhodmk5czAxNWg4MnpjZTE5NjVvaTNqbXZoODNqam9pNzh0cmpiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rsANkiygv0Jpyn7mFC/giphy.gif" width="295" height="250"/>
 <div id="badges">
   <a href="https://t.me/dull_system">
     <img src="https://img.shields.io/badge/%20-blue?style=social&logo=telegram&label=telegram&labelColor=blue&color=blue"/>
