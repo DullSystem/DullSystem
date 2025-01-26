@@ -38,7 +38,7 @@
 #### • Stepik: <a href = "https://drive.google.com/file/d/1DguE8WBtpq0QyUlyTWViVB6uvh9b_YHg/view?usp=drive_link">`Основы статистики`</a>, `ClickHouse для аналитика`.
 #### • Karpov courses: `симулятор SQL`. 
 ---
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZleG5pbHZnNW5obTVidW92d2M3c3duOWI1dWlob3ZjZ2hqaWQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif" width="20px"/> Languages and Tools :
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZleG5pbHZnNW5obTVidW92d2M3c3duOWI1dWlob3ZjZ2hqaWQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif" width="17px"/> Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://yt3.googleusercontent.com/ytc/AIdro_mu_0ah9fKaW9FAr1rmPhPepQ8o-D3nIHWEIxIeC2Knfw=s900-c-k-c0x00ffffff-no-rj" title="NamPy" alt="NamPy" width="40" height="40"/>&nbsp;
@@ -53,7 +53,7 @@
 </div>
 
 ---
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjltcG95YTZqY3o5dmdtZmdiYjMybjZoeThuZ3ltbzhsYzhpMWI2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="20px"/> My Stats : 
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjltcG95YTZqY3o5dmdtZmdiYjMybjZoeThuZ3ltbzhsYzhpMWI2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="17px"/> My Stats : 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DullSystem&theme=tokyonight&locale=ru&card_width=375&card_height=55)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DullSystem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DullSystem&theme=nightowl&height=95)](https://github.com/ashutosh00710/github-readme-activity-graph)
