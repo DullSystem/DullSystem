@@ -22,7 +22,8 @@
   <img src="https://komarev.com/ghpvc/?username=DullSystem&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there, I'm Sergey
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
+    <img src="https://camo.githubusercontent.com/78b7ecc1508c60ead8525aef2cbc5f1e50c991ac81e8c56d55b44507e885c92a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e676966" width="30px"/>
 </h1>
   <div align="center">  
 </div>
