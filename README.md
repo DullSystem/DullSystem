@@ -36,7 +36,7 @@
 #### • Stepik: <a href = "https://drive.google.com/file/d/1DguE8WBtpq0QyUlyTWViVB6uvh9b_YHg/view?usp=drive_link">`Основы статистики`</a>, `ClickHouse для аналитика`.
 #### • Karpov courses: `симулятор SQL`. 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZleG5pbHZnNW5obTVidW92d2M3c3duOWI1dWlob3ZjZ2hqaWQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif" width="30px"/> Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://yt3.googleusercontent.com/ytc/AIdro_mu_0ah9fKaW9FAr1rmPhPepQ8o-D3nIHWEIxIeC2Knfw=s900-c-k-c0x00ffffff-no-rj" title="NamPy" alt="NamPy" width="40" height="40"/>&nbsp;
