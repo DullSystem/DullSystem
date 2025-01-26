@@ -6,7 +6,8 @@
     <img src="https://img.shields.io/badge/%20-blue?style=social&logo=telegram&label=telegram&labelColor=blue&color=blue"/>
   </a>
   <a href="https://vk.com/dull1993">
-    <img src="https://img.shields.io/badge/%20-blue?style=flat&logo=vkontakte&label=VK&labelColor=blue&color=blue"/>
+<!--     <img src="https://img.shields.io/badge/%20-blue?style=flat&logo=vkontakte&label=VK&labelColor=blue&color=blue"/> -->
+    <img src="https://img.shields.io/badge/VK-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" width="45px" />
   </a>
   <a href="https://wa.me/qr/L57VIJ3W6OB5F1">
     <img src="https://img.shields.io/badge/%20-green?style=flat&logo=WhatsApp&label=WhatsApp&labelColor=green&color=green"/>
