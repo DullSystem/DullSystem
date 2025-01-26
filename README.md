@@ -22,7 +22,7 @@
   <h1>
   Hey there, I'm Sergey
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRvaXZubnZ1bmRjZWR2NHE0cm5xanBqZjZwdGtuemRvdDJlbW8zcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="70px"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRvaXZubnZ1bmRjZWR2NHE0cm5xanBqZjZwdGtuemRvdDJlbW8zcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="50px"/>
 </h1>
   <div align="center">  
 </div>
