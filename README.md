@@ -57,7 +57,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DullSystem&theme=nightowl&height=95)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DullSystem&theme=tokyonight&&card_width=495" />
+  <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DullSystem&theme=tokyonight&&card_width=490" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DullSystem&theme=tokyonight&layout=compact&langs_count=8&card_width=400" />
