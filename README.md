@@ -60,5 +60,5 @@
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DullSystem&theme=tokyonight&&card_width=460" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DullSystem&theme=tokyonight&layout=compact&langs_count=8&card_width=280" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DullSystem&theme=tokyonight&layout=compact&langs_count=8&card_width=300" />
 </a>
