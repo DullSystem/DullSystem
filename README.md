@@ -55,10 +55,10 @@
 ---
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjltcG95YTZqY3o5dmdtZmdiYjMybjZoeThuZ3ltbzhsYzhpMWI2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="17px"/> My Stats : 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DullSystem&theme=nightowl&height=95)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DullSystem&theme=nightowl&height=170)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DullSystem&theme=tokyonight&&card_width=490" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DullSystem&theme=tokyonight&layout=compact&langs_count=8&card_width=402" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DullSystem&theme=tokyonight&layout=compact&langs_count=8&card_width=404" />
 </a>
