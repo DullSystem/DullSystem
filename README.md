@@ -32,11 +32,12 @@
 ---
 ### :raising_hand_man: About Me : Меня зовут Сергей, и в настоящее время развиваю свои знания в области анализа и визуализации данных.
 ### :books: Additional education : Постоянно совершенствую свои навыки с помощью онлайн-курсов, книг и  pet-проектов. Сосредоточен на том, чтобы быть в курсе последних тенденций в отрасли.
-### :e-mail: Открыт к сотрудничеству и нетворкингу по электронной почте или в социальных сетях.
+
 
 #### • Яндекс практикум:  <a href = "https://drive.google.com/file/d/1V95Crh1DmcrKRBw-YfUb2FWTo4F88YlR/view?usp=drive_link">`аналитик данных` </a>, `основы статистики и А/B тестирования`, <a href = "https://drive.google.com/file/d/1TiZMe3hfNxJaLwqSOL-ZJEFj0kj5cOl-/view?usp=drive_link">`DataLens: анализ и визуализация данных`</a>.
 #### • Stepik: <a href = "https://drive.google.com/file/d/1DguE8WBtpq0QyUlyTWViVB6uvh9b_YHg/view?usp=drive_link">`Основы статистики`</a>, `ClickHouse для аналитика`.
 #### • Karpov courses: `симулятор SQL`. 
+### :e-mail: Открыт к сотрудничеству и нетворкингу по электронной почте или в социальных сетях.
 ---
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZleG5pbHZnNW5obTVidW92d2M3c3duOWI1dWlob3ZjZ2hqaWQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif" width="17px"/> Languages and Tools :
 <div>
