@@ -35,7 +35,7 @@
 
 
 #### • Яндекс практикум:  <a href = "https://drive.google.com/file/d/1V95Crh1DmcrKRBw-YfUb2FWTo4F88YlR/view?usp=drive_link">`аналитик данных` </a>, `основы статистики и А/B тестирования`, <a href = "https://drive.google.com/file/d/1TiZMe3hfNxJaLwqSOL-ZJEFj0kj5cOl-/view?usp=drive_link">`DataLens: анализ и визуализация данных`</a>.
-#### • Stepik: <a href = "https://drive.google.com/file/d/1DguE8WBtpq0QyUlyTWViVB6uvh9b_YHg/view?usp=drive_link">`Основы статистики`</a>, `ClickHouse для аналитика`.
+#### • Stepik: <a href = "https://drive.google.com/file/d/1DguE8WBtpq0QyUlyTWViVB6uvh9b_YHg/view?usp=drive_link">`Основы статистики`</a>, `ClickHouse для аналитика`, `Apache Airflow для аналитика`
 #### • Karpov courses: `симулятор SQL`. 
 ### :e-mail: Открыт к сотрудничеству и нетворкингу по электронной почте или в социальных сетях.
 ---
