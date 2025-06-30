@@ -30,14 +30,14 @@
 </div>
  
 ---
-### :raising_hand_man: About Me : Меня зовут Сергей, и в настоящее время развиваю свои знания в области анализа и визуализации данных.
-### :books: Additional education : Постоянно совершенствую свои навыки с помощью онлайн-курсов, книг и  pet-проектов. Сосредоточен на том, чтобы быть в курсе последних тенденций в отрасли.
+### :raising_hand_man: About Me : My name is Sergey, and I’m a Data Analyst. I work with data to turn numbers into decisions and uncover insights that drive real value.
+### :books: Additional education : I’m committed to continuous professional growth — exploring modern tools and approaches through courses, books, and pet projects. I stay updated on industry trends and actively practice new technologies.
 
 
-#### • Яндекс практикум:  <a href = "https://drive.google.com/file/d/1V95Crh1DmcrKRBw-YfUb2FWTo4F88YlR/view?usp=drive_link">`аналитик данных` </a>, `основы статистики и А/B тестирования`, <a href = "https://drive.google.com/file/d/1TiZMe3hfNxJaLwqSOL-ZJEFj0kj5cOl-/view?usp=drive_link">`DataLens: анализ и визуализация данных`</a>.
+#### • Yandex Practicum:  <a href = "https://drive.google.com/file/d/1V95Crh1DmcrKRBw-YfUb2FWTo4F88YlR/view?usp=drive_link">`аналитик данных` </a>, `основы статистики и А/B тестирования`, <a href = "https://drive.google.com/file/d/1TiZMe3hfNxJaLwqSOL-ZJEFj0kj5cOl-/view?usp=drive_link">`DataLens: анализ и визуализация данных`</a>.
 #### • Stepik: <a href = "https://drive.google.com/file/d/1DguE8WBtpq0QyUlyTWViVB6uvh9b_YHg/view?usp=drive_link">`Основы статистики`</a>, `ClickHouse для аналитика`, `Apache Airflow для аналитика`
-#### • Karpov courses: `симулятор SQL`, `Docker`.
-### :e-mail: Открыт к сотрудничеству и нетворкингу по электронной почте или в социальных сетях.
+#### • Karpov courses: `симулятор SQL`, `Docker`, `Tableau - продвинутая визуализация`.
+### :e-mail: I'm always open to collaboration and professional networking — feel free to reach out via email or social media.
 ---
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZleG5pbHZnNW5obTVidW92d2M3c3duOWI1dWlob3ZjZ2hqaWQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif" width="17px"/> Languages and Tools :
 <div>
