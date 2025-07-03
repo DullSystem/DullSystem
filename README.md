@@ -35,7 +35,7 @@
 
 
 #### • Yandex Practicum:  <a href = "https://drive.google.com/file/d/1V95Crh1DmcrKRBw-YfUb2FWTo4F88YlR/view?usp=drive_link">`аналитик данных` </a>, `основы статистики и А/B тестирования`, <a href = "https://drive.google.com/file/d/1TiZMe3hfNxJaLwqSOL-ZJEFj0kj5cOl-/view?usp=drive_link">`DataLens: анализ и визуализация данных`</a>.
-#### • Stepik: <a href = "https://drive.google.com/file/d/1DguE8WBtpq0QyUlyTWViVB6uvh9b_YHg/view?usp=drive_link">`Основы статистики`</a>, `ClickHouse для аналитика`, `Apache Airflow для аналитика`
+#### • Stepik: <a href = "https://drive.google.com/file/d/1DguE8WBtpq0QyUlyTWViVB6uvh9b_YHg/view?usp=drive_link">`Основы статистики`</a>, `ClickHouse для аналитика`, <a href = "https://drive.google.com/file/d/1cIeMlrRQRxl6yjtf3a99ujLy-wmjg07r/view?usp=drive_link"> `Apache Airflow для аналитика` </a>
 #### • Karpov courses: `симулятор SQL`, `Docker`, `Tableau - продвинутая визуализация`.
 ### :e-mail: I'm always open to collaboration and professional networking — feel free to reach out via email or social media.
 ---
